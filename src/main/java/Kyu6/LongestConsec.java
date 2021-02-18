@@ -1,7 +1,6 @@
 package Kyu6;
 
 class LongestConsec {
-
     public static String longestConsec(String[] strarr, int k) {
         String answer = "";
         String current = "";
