@@ -1,3 +1,5 @@
+package Kyu7;
+
 public class Maskify {
     public static String maskify(String str) {
         String answer = "";

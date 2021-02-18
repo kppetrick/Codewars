@@ -1,7 +1,8 @@
+package Kyu7;
+
 import static org.junit.Assert.*;
 
-import java.util.*;
-
+import Kyu7.NthSeries;
 import org.junit.Test;
 
 

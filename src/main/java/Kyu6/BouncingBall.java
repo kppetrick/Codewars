@@ -1,3 +1,5 @@
+package Kyu6;
+
 public class BouncingBall {
 
     public static int bouncingBall(double h, double bounce, double window) {

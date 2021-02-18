@@ -1,3 +1,5 @@
+package Kyu7;
+
 public class Vowels {
 
     public static int getCount(String str) {

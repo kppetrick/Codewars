@@ -1,3 +1,6 @@
+package Kyu7;
+
+import Kyu7.Vowels;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 

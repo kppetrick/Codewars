@@ -1,5 +1,8 @@
+package Kyu6;
+
 import static org.junit.Assert.*;
-import java.util.Random;
+
+import Kyu6.BouncingBall;
 import org.junit.Test;
 
 

@@ -1,3 +1,5 @@
+package Kyu6;
+
 public class FindOutlier{
     static int find(int[] integers) {
         int even = 0;

@@ -1,3 +1,6 @@
+package Kyu6;
+
+import Kyu6.FindOutlier;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
